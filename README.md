@@ -18,3 +18,5 @@ Tinkercad Circuits 시뮬레이션 환경에서 구현했습니다.
 
 - ## Simulation
 - Tinkercad Circuits
+
+시연영상: https://drive.google.com/file/d/1kF1PxF2ly4ofTCtXulrcxZbmcBQ_tzi2/view?usp=drive_link
